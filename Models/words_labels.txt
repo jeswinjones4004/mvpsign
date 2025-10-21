@@ -1,0 +1,16 @@
+0 Afraid 
+1 Agree
+2 Bad
+3 Become
+4 Doctor
+5 Pain
+6 Pray
+7 Stand
+8 Small
+9 Skin
+10 Specific
+11 Secondary
+12 Warn
+13 Work
+14 You
+15 Today
